@@ -1,0 +1,1 @@
+# Huffman-Algorithm-for-Image-and-Video-compression
